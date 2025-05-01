@@ -86,7 +86,4 @@ Project on GitHub: [Your GitHub project link here]
 - Matplotlib
 
 ## Repository
-Find the project on GitHub: [Your GitHub project link here]
-
-## License
-This project is licensed under the MIT License.
+Find the project on GitHub: Your GitHub project link [here](https://github.com/MoizKhawar/titanic-survival-analysis)
