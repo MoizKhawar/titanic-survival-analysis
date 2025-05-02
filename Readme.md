@@ -59,22 +59,6 @@ Example observation:
 ### Step 6: Save Your Work
 1. Save your notebook as `titanic_survival_analysis.ipynb`.
 
-### Step 7: Upload to GitHub
-1. Create a new GitHub repository named `titanic-survival-analysis`.
-2. Upload your Jupyter notebook to the repository.
-
-### Step 8: Share on LinkedIn
-Example LinkedIn post:
-```plaintext
-🔍 Mini Data Insight from My Learning Journey in Data Science
-While exploring the Titanic dataset 🛳️, I discovered:
-🎯 Female survival rate: ~74% 🎯 Male survival rate: ~19%
-This shows how historical data can reveal social patterns!
-Tools used: Python, Pandas, Seaborn
-Project on GitHub: [Your GitHub project link here]
-#LearningDataScience #Python #DataAnalytics #TitanicDataset #MiniProject
-```
-
 ## Key Takeaways
 - Female passengers had a significantly higher survival rate compared to male passengers.
 - Data visualization helps uncover meaningful insights from historical datasets.
